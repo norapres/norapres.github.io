@@ -1,0 +1,88 @@
+.container{
+  border-bottom: 1px solid black;
+}
+
+.navbar{
+  background-color: #0b5091;
+}
+
+.navbar-brand{
+  color: #f5c13f;
+}
+
+.navbar-brand:hover{
+  color: #f5c13f;
+}
+
+#home-top{
+  color: #f5c13f;
+}
+
+#about-top{
+  color: #f5c13f;
+}
+
+#port-top{
+  color: #f5c13f;
+}
+
+#contact-top{
+  color: #f5c13f;
+}
+
+.icon-bar{
+  background-color: #f5c13f;
+}
+
+#home-text{
+  color: #f5c13f;
+  text-shadow: 2px 2px black;
+  text-align: center;
+  margin-top: 120px;
+  font-size: 80px;
+}
+
+#year{
+  color: #f5c13f;
+  text-shadow: 2px 2px black;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 50px; 
+}
+
+#home{
+  background: url('http://i.imgur.com/EaSGfyn.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 780px;
+  margin-bottom: 0px;
+}
+
+#about{
+  background-color: #f5c13f;
+  height: 780px;
+  margin-bottom: 0px;
+}
+
+#about-text-head{
+  text-align: center;
+  color: black;
+  font-size: 400%;
+  text-decoration: underline;
+}
+
+#about-text-body{
+  font-size: 300%;
+  text-align: center;
+}
+
+#portfolio{
+  background-color: #056ae2;
+  height: 780px;
+  margin-bottom: 0px;
+}
+
+#contact{
+  background: #0b5091;
+  margin-bottom: 0px;
+  height: 3em;
+}
